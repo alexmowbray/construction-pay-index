@@ -1,0 +1,29 @@
+{
+  "title": "Construction Placement Pay Index (Amundson Group)",
+  "upload_type": "dataset",
+  "description": "<p>The base salaries US construction professionals were actually hired at, from the placement records of Amundson Group, a construction-only recruiting firm headquartered in Houston, Texas. Placements, not survey answers. Medians, not averages. Base only, before truck, per diem and bonus.</p><p>Dated monthly releases as CSV files: the 25th percentile, median and 75th percentile base salary at placement by role over twelve months, with the prior twelve months' median and the change; medians by role for states and metro areas over twelve or 24 months; and the roles whose median moved since the previous release. Covers heavy civil, site development, paving, data center, rail, tunnel, wastewater and underground utility construction in the United States. A role, a state or a metro appears only when its window holds enough placements for a steady median. No client is named and no individual figure is shown.</p><p>Live index: https://amundsongroup.com/construction-pay-index/</p>",
+  "creators": [
+    {
+      "name": "Amundson Group"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "construction",
+    "salaries",
+    "compensation",
+    "labor market",
+    "construction recruiting",
+    "heavy civil",
+    "data center construction"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://amundsongroup.com/construction-pay-index/",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    }
+  ]
+}

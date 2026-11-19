@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Construction Placement Pay Index (Amundson Group)"
+abstract: "Median base salary at placement for US construction roles, from the placement records of Amundson Group, a construction-only recruiting firm headquartered in Houston, Texas. Dated monthly releases covering heavy civil, site development, paving, data center, rail, tunnel, wastewater and underground utility construction: medians and quartiles by role, state and metro cuts, and moves since the previous release. Base salary only."
+authors:
+  - name: "Amundson Group"
+    city: "Houston"
+    region: "Texas"
+    country: "US"
+    website: "https://amundsongroup.com"
+version: "2026-11"
+date-released: 2026-11-15
+license: CC-BY-4.0
+url: "https://amundsongroup.com/construction-pay-index/"
+repository: "https://github.com/alexmowbray/construction-pay-index"
+keywords:
+  - construction
+  - salaries
+  - compensation
+  - labor market
+  - construction recruiting
+  - heavy civil
+  - data center construction
