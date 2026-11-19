@@ -10,6 +10,7 @@ authors:
     country: "US"
     website: "https://amundsongroup.com"
 version: "2026-11"
+doi: 10.5281/zenodo.24382448
 date-released: 2026-11-15
 license: CC-BY-4.0
 url: "https://amundsongroup.com/construction-pay-index/"

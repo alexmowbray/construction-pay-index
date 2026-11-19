@@ -25,6 +25,8 @@ configs:
 
 # Construction Placement Pay Index (Amundson Group)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24382448.svg)](https://doi.org/10.5281/zenodo.24382448)
+
 The base salaries US construction professionals were actually hired at, from the placement records of Amundson Group, a construction-only recruiting firm headquartered in Houston, Texas. Placements, not survey answers. Medians, not averages. Base only, before truck, per diem and bonus.
 
 This repository holds the dated monthly releases as CSV files. Latest release: **November 2026** (published 15 November 2026), covering the twelve months to November 2026. Earlier release: October 2026 (published 16 October 2026).
@@ -59,7 +61,20 @@ Every figure is the base salary agreed at the moment of hire, recorded in Amunds
 
 ## Citation
 
-Amundson Group, Construction Placement Pay Index, November 2026 release. https://amundsongroup.com/construction-pay-index-november-2026/
+Amundson Group (2026). Construction Placement Pay Index (Amundson Group) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24382448
+
+That DOI always points to the latest release. The November 2026 release on its own: https://doi.org/10.5281/zenodo.24382449 (release page: https://amundsongroup.com/construction-pay-index-november-2026/).
+
+```bibtex
+@dataset{amundson_group_construction_pay_index,
+  author    = {{Amundson Group}},
+  title     = {Construction Placement Pay Index (Amundson Group)},
+  publisher = {Zenodo},
+  year      = {2026},
+  doi       = {10.5281/zenodo.24382448},
+  url       = {https://doi.org/10.5281/zenodo.24382448}
+}
+```
 
 Licensed under Creative Commons Attribution 4.0 (CC BY 4.0): use it freely, credit Amundson Group with a link.
 
